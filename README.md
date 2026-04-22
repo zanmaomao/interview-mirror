@@ -1,6 +1,6 @@
 # Interview Mirror 🥰
 
-将面试录音转写稿转化为结构化复盘报告的Skill。输入带有说话人信息的面试文字稿与岗位描述，即可收获一份完整的 Markdown 报告，内含逐题分析卡片（原文+分析+建议）、四维度综合评估报告与追问预判。
+将面试录音转写稿转化为结构化复盘报告的Skill。输入带有说话人信息的面试文字稿与岗位描述，即可收获一份完整的 Markdown 报告，内含逐题分析卡片（原文+分析+建议）、四维度综合评估报告与追问预判。你可以根据个人喜好自行修改打分规则、建议分析原则与方向、报告输出格式。
 
 在线网站：
 - https://interviewcompass.top
@@ -39,7 +39,7 @@ interview-mirror/
   references/
     schema.md                 interview_units.json 字段定义
     question_types.md         题型分类标准与评分维度映射
-    output_template.md        Markdown 报告完整模板
+    output_template.md        Markdown 报告完整模板（根本个人喜欢自行修改）
 ```
 
 
