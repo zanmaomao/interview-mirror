@@ -1,8 +1,9 @@
-# Interview Mirror
+# Interview Mirror 🥰
 
 将面试录音转写稿转化为结构化复盘报告的Skill。输入带有说话人信息的面试文字稿与岗位描述，即可收获一份一份完整的 Markdown 报告，内含逐题分析卡片、四维度综合评估报告与追问预判。
 
----
+在线网站：
+- https://interviewcompass.top
 
 ## 快速开始
 
@@ -17,7 +18,7 @@ npx skills update interview-mirror
 
 ```
 
----
+
 
 ## 输入要求
 
@@ -28,7 +29,7 @@ npx skills update interview-mirror
 | 岗位 JD | 否 | 提供后额外生成高频题预测 |
 
 
----
+
 
 ## 项目结构
 
@@ -41,7 +42,6 @@ interview-mirror/
     output_template.md        Markdown 报告完整模板
 ```
 
----
 
 
 
