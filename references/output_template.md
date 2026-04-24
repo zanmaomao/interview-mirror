@@ -24,28 +24,35 @@
 **普通问答题：**
 
 ```markdown
-#### Q1：[question_summary]（[primary_label]）
+#### Q1：[question]（[primary_label]）
 
 **得分：** X / 5
+
 **考察意图：** [intent]
+
 **候选人回答：** [answer 原文]
-**回答摘要：** [answer_summary]
+
 **优点：**
 - [strength1]
 - [strength2]
+
 **不足：**
 - [weakness1]
 - [weakness2]
+
 **建议：** [suggestion]
+
 **优化参考回答：** [optimized_answer]
+
 ```
 
 **反向提问（is_candidate_question = true）：**
 
 ```markdown
-#### Q1：[question_summary]（反向提问）
+#### Q1：[question]（反向提问）
 
 **候选人提问：** [question 原文]
+
 **面试官回答摘要：** [interviewer_response_summary]
 ```
 
