@@ -30,7 +30,12 @@
 
 **考察意图：** [intent]
 
-**候选人回答：** [answer 原文]
+<details>
+<summary>候选人原始回答（点击展开）</summary>
+
+[answer 原文]
+
+</details>
 
 **优点：**
 - [strength1]
