@@ -38,14 +38,14 @@
 </details>
 
 **优点：**
-- [strength1]
-- [strength2]
+- [strength，可有一条或多条]
 
 **不足：**
-- [weakness1]
-- [weakness2]
+- [weakness，视实际情况可为空或多条]
 
 **建议：** [suggestion]
+
+**表达备注：** [expression_note]（仅有内容时渲染此行）
 
 **优化参考回答：** [optimized_answer]
 
@@ -70,11 +70,11 @@
 
 ## 预测题
 
-### 基于本次短板的追问预测
+### 高关注度追问预测
 1. **[predicted_question]**（关联 Q[related_unit_id]）
    答题建议：[answer_tip]
 
 ### 基于岗位 JD 的高频题（如有）
-1. **[question]**（出现 [frequency] 次，来源：[source_label]）
+1. **[question]**
    答题建议：[answer_tip]
 ```
