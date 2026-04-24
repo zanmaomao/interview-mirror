@@ -2,9 +2,6 @@
 
 将面试录音转写稿转化为结构化复盘报告的 Skill。输入带有说话人信息的面试文字稿与岗位描述，即可收获一份完整的 Markdown 报告，内含逐题分析卡片与追问预判。
 
-在线网站：
-- https://interviewcompass.top
-
 ---
 
 ## 快速开始
@@ -42,13 +39,16 @@ interview-mirror/
   references/
     schema.md                 interview_units.json 字段定义
     question_types.md         题型分类标准与优化思路
-    output_template.md        Markdown 报告完整模板
-    scoring_rubric.md         评分标准
+    output_template.md        DIY你的 Markdown 报告完整模板
+    scoring_rubric.md         DIY你的评分标准
 ```
 
 ---
 
+在线网站（仍在优化，功能和标准尚未对其到skill）：
+- https://interviewcompass.top
 
+---
 
 ## License
 
